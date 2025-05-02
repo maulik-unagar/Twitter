@@ -3,6 +3,10 @@
 A simple and responsive Twitter clone built using Tailwind CSS.  
 
 ---
+## 🔗 Live Demo link
+- 🌍 https://maulik-unagar.github.io/Twitter/
+
+---
 
 ## 🚀 Features
 
